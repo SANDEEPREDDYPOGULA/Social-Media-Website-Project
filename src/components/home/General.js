@@ -1,0 +1,21 @@
+import React, { Component } from 'react';
+import weeknd from '../weeknd.jpg';
+import { Button } from 'reactstrap';
+
+export class General extends Component {
+    constructor(props){
+        super(props);
+    }
+    render () {
+
+        return (
+             <div >
+             <Button outline href="/generalbox" color="secondary" size="sm" >
+             <h6 className="mx-auto" >Username Timeline</h6>
+             <img src={weeknd} style={{ maxWidth: 160 }}  />
+             </Button>
+             </div>
+        );
+    }
+}
+export default General;
