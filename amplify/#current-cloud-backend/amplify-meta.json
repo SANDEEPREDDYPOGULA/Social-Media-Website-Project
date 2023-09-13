@@ -1,0 +1,19 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "amplify-tale-dev-174956-authRole",
+			"UnauthRoleArn": "arn:aws:iam::662747464845:role/amplify-tale-dev-174956-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::662747464845:role/amplify-tale-dev-174956-authRole",
+			"Region": "ap-south-1",
+			"DeploymentBucketName": "amplify-tale-dev-174956-deployment",
+			"UnauthRoleName": "amplify-tale-dev-174956-unauthRole",
+			"StackName": "amplify-tale-dev-174956",
+			"StackId": "arn:aws:cloudformation:ap-south-1:662747464845:stack/amplify-tale-dev-174956/56a7b030-3d11-11ea-93ab-027843ee7a02",
+			"AmplifyAppId": "d337fv8873qik5"
+		}
+	},
+	"auth": {},
+	"storage": {},
+	"api": {},
+	"function": {}
+}

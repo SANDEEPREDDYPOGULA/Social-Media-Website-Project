@@ -1,0 +1,12 @@
+{
+	"auth": {
+		"taleusers": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"storage": {},
+	"api": {},
+	"function": {}
+}
